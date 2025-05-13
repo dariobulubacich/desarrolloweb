@@ -45,7 +45,7 @@ h1 {
 .carousel-container {
   position: relative;
   width: 100%;
-  max-width: 1000px; /* Podés ajustar el máximo según tu diseño */
+  max-width: 1000px;
   margin: 20px auto;
   overflow: hidden;
   border-radius: 10px;
@@ -60,7 +60,7 @@ h1 {
 
 .carousel-slide img {
   width: 100%;
-  max-height: 500px; /* Ajustá este valor si querés más o menos altura */
+  max-height: 500px;
   object-fit: cover;
   flex-shrink: 0;
 }
